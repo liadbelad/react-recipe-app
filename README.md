@@ -1,3 +1,8 @@
+A simple recipe app fetching data from a restfull API
+
+live demo : https://beladev-recipes.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
