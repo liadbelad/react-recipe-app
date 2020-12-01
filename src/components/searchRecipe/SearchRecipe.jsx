@@ -11,7 +11,7 @@ function SearchRecipe({ search, handleChange, handleSubmit }) {
           </h1>
           <form className="mt-4">
             <label htmlFor="search" className="text-capitalize">
-              type recipes seprated by comma
+              type one recipes category here
             </label>
             <div className="input-group">
               <input
